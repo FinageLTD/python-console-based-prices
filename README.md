@@ -19,3 +19,4 @@ Before running the script, replace the _`YOUR_SOCKET_ADDRESS`_ with the address 
 ### Example Output
 ![Real-Time Finage Cryptocurrency Prices](https://finage.s3.eu-west-2.amazonaws.com/blog/Crypto.gif)
 
+![Real-Time Finage Cryptocurrency Prices](https://finage.s3.eu-west-2.amazonaws.com/blog/Crypto.png)
