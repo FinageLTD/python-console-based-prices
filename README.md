@@ -11,6 +11,8 @@ You can view the Real-Time cryptocurrency, stock, forex or commodity prices on y
 
 Before running the script, replace the _`YOUR_SOCKET_ADDRESS`_ with the address that you can find on the [dashboard](https://moon.finage.co.uk).
 
+_IMPORTANT NOTE: Edit the jsonData parameters according to your server output before running the script._
+
 ##### Run the script
 * `python3 script.py`
 * Enter the symbols (eg. **btcusd**,**dogeusd**,**xrpusd**)
